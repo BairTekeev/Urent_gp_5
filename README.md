@@ -1,4 +1,4 @@
-# Проект Urent_gp_5 
+# Проект Kiksharing
 Система с использованием глубокого обучения для проверки завершения поездок в сервисах кикшеринга
 
 ## Основная цель проекта 
@@ -27,7 +27,7 @@
 - ResNet  
 
 **данные брали тут**
-[Improper scooter parking detection](https://www.kaggle.com/datasets/prodigyanalysis/improper-scooter-parking-detection)
+[Improper scooter parking detection](https://www.kaggle.com/datasets/prodigyanalysis/improper-scooter-parking-detection)  
 Этот набор данных содержит изображения правильно и неправильно припаркованных электросамокатов в различных городских условиях.
 
 
@@ -47,8 +47,10 @@
 - глубокая FCNN
 - FCNN+dropout+batchnorm   
 
-**данные брали тут**
-[Austin Shared Micromobility Vehicle Trips 2018–2022](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips-2018-2022-/7d8e-dm7r/data_preview)
-Данные о реальных поездках в Austin
-[Austin 311 Public Data](https://data.austintexas.gov/Utilities-and-City-Services/Austin-311-Public-Data/xwdj-i9he/data_preview)
+**данные брали тут**  
+
+[Austin Shared Micromobility Vehicle Trips 2018–2022](https://data.austintexas.gov/Transportation-and-Mobility/Shared-Micromobility-Vehicle-Trips-2018-2022-/7d8e-dm7r/data_preview)  
+Данные о реальных поездках в Austin 
+
+[Austin 311 Public Data](https://data.austintexas.gov/Utilities-and-City-Services/Austin-311-Public-Data/xwdj-i9he/data_preview)  
 Городские жалобы/обращения
